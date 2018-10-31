@@ -5,9 +5,9 @@ header-img: img/post-bg-desk.jpg
 email: linmaog@mail2.sysu.edu.cn
 description: "Every failure is leading towards success."
 keyword: "MaoguiLin, MachineLearning, DeepLearning"
-url: "http://qiubaiying.github.io"          # your host, for absolute URL
+url: "http://NickyLam.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/NickyLam/NickyLam.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -18,11 +18,11 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
-zhihu_username:     qiubaiying
-github_username:    qiubaiying
-facebook_username:  baiying.qiu.7
-jianshu_username:   e71990ada2fd
+# weibo_username:     MGLam_SYSU
+zhihu_username:     linmaog 
+github_username:    NickyLam
+facebook_username:  gui203
+jianshu_username:   
 #twitter_username:   qiubaiying
 
 
